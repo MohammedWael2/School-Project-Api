@@ -1,0 +1,56 @@
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Core.deps.json
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Core.runtimeconfig.json
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Core.dll
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Core.pdb
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Data.dll
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Infarastructure.dll
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Service.dll
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Data.pdb
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Infarastructure.pdb
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Service.pdb
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.csproj.CopyComplete
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.dll
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\refint\SchoolProject.Core.dll
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.pdb
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.genruntimeconfig.cache
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\ref\SchoolProject.Core.dll
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\Ar\SchoolProject.Core.resources.dll
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\En\SchoolProject.Core.resources.dll
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.Resources.SharedResources.Ar.resources
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.Resources.SharedResources.En.resources
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\Ar\SchoolProject.Core.resources.dll
+C:\Users\hp\source\repos\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\En\SchoolProject.Core.resources.dll
+E:\my project\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.dll
+E:\my project\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\refint\SchoolProject.Core.dll
+E:\my project\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.pdb
+E:\my project\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Core.deps.json
+E:\my project\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Core.runtimeconfig.json
+E:\my project\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Core.dll
+E:\my project\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Core.pdb
+E:\my project\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\ar\SchoolProject.Core.resources.dll
+E:\my project\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\en\SchoolProject.Core.resources.dll
+E:\my project\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Data.dll
+E:\my project\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Infarastructure.dll
+E:\my project\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Service.dll
+E:\my project\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Data.pdb
+E:\my project\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Infarastructure.pdb
+E:\my project\SchoolProject.Api\SchoolProject.Core\bin\Debug\net8.0\SchoolProject.Service.pdb
+E:\my project\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.csproj.AssemblyReference.cache
+E:\my project\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.Resources.SharedResources.ar.resources
+E:\my project\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.Resources.SharedResources.en.resources
+E:\my project\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.csproj.GenerateResource.cache
+E:\my project\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\my project\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.AssemblyInfoInputs.cache
+E:\my project\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.AssemblyInfo.cs
+E:\my project\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.csproj.CoreCompileInputs.cache
+E:\my project\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\ar\SchoolProject.Core.resources.dll
+E:\my project\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\en\SchoolProject.Core.resources.dll
+E:\my project\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolPr.1F8A3534.Up2Date
+E:\my project\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.genruntimeconfig.cache
+E:\my project\SchoolProject.Api\SchoolProject.Core\obj\Debug\net8.0\ref\SchoolProject.Core.dll
